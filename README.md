@@ -9,3 +9,7 @@ Friends :   1) Visuasliserung, Statistik
             
 Billboards:  1) Timeseries, Statistik
              2) Texte: Entwicklung
+             
+             
+Tornados, Typhoons : 1) Timeseries, Statistik
+                     2) 2) ML, Prognose, Correlations
