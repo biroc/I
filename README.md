@@ -1,6 +1,8 @@
 # I
 
 
+Staaten (USA 50, Welt) : Karte , Infos bei Maus over , Klick
+
 
 Friends :   1) Visuasliserung, Statistik
             2) ML, Prognose
