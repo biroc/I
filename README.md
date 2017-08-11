@@ -4,6 +4,9 @@
 Staaten (USA 50, Welt) : Karte , Infos bei Maus over , Klick
 
 
+Sterne : Entfernung, alle in 100 LY, Klasse, Typ, Planeten, Position ?
+
+
 Friends :   1) Visuasliserung, Statistik
             2) ML, Prognose
             
